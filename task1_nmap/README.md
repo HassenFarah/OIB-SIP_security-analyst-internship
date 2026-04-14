@@ -233,6 +233,10 @@ nmap --script vuln 192.168.56.101 -p 21,22,80,443
 10. Maintain an asset inventory and compare against scan results
 
 ---
+## 🎥 
+
+### 🔍 Nmap Scan Demo
+[Watch here](https://youtu.be/cNmRZ4b603E)
 
 ## Repository Structure
 

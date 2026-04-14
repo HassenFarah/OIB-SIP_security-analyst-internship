@@ -149,6 +149,8 @@ Right-clicking a packet and selecting **Follow → TCP Stream** revealed the ful
 5. Right-click any packet → **Follow → TCP Stream** to view the full conversation
 
 ---
+### 📡 Wireshark Analysis Demo
+[Watch here](https://youtu.be/Gaa7y13I1Kc)
 
 ## Author
 **Farah Hassen**
